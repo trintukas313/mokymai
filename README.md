@@ -1,0 +1,2 @@
+# mokymai
+Savarankiskas  mokymasis 
